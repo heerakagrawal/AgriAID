@@ -7,3 +7,6 @@ Identifies various plant diseases from leaf images.
 Utilizes Convolutional Neural Network (CNN) for image classification.
 Built with TensorFlow and Keras.
 Trained on a dataset of plant leaf images.
+
+
+Consists a .h5 model , can be deployed on google cloud.
